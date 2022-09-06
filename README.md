@@ -1,16 +1,3 @@
-# DO Community - Ansible Playbooks
-
-A collection of minimalist Ansible playbooks for automating server setups, based on DigitalOcean's Community guides.
-
-- [Initial Server Setup for Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/setup_ubuntu1804) *
-- [Apache on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/apache_ubuntu1804)
-- [LEMP on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/lemp_ubuntu1804)
-- [LAMP on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/lamp_ubuntu1804)
-- [WordPress with LAMP on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/wordpress-lamp_ubuntu1804)
-- [Docker on Ubuntu 18.04](https://github.com/do-community/ansible-playbooks/tree/master/docker_ubuntu1804)
-
-_\*the Initial Server Setup should be your starting point for fresh servers._
-
 ## Playbook Structure
 
 The playbooks contained in this repository were created for educational purposes, and should serve as a base for you to create your own playbooks and roles.
